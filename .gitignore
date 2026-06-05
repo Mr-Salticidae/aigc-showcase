@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.vercel/
+public/videos/
+*.mov
+*.MOV
+setup-media-server.sh
+reset-and-push.ps1
+push-to-github.bat
