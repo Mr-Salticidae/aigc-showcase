@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <main>
       <HeroVideo
-        videoUrl="http://43.128.2.110/videos/hero-bg.mp4"
+        videoUrl="/videos/hero-bg.mp4"
         title="AIGC TEAM"
         tagline="Coming soon — works loading."
       />
